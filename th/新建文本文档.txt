@@ -1,0 +1,5 @@
+vless://8e3ba5a3-4fe1-4ad4-88b0-ff040b22f6e2@ddth01.doudou8888.com:443?type=ws&encryption=none&security=tls&path=%2FWS#%E6%B3%B0%E5%9B%BD01-vless
+vless://8e3ba5a3-4fe1-4ad4-88b0-ff040b22f6e2@ddth02.doudou8888.com:443?type=ws&encryption=none&security=tls&path=%2FWS#%E6%B3%B0%E5%9B%BD02-vless
+vless://8e3ba5a3-4fe1-4ad4-88b0-ff040b22f6e2@ddth03.doudou8888.com:443?type=ws&encryption=none&security=tls&path=%2FWS#%E6%B3%B0%E5%9B%BD03-vless
+vless://8e3ba5a3-4fe1-4ad4-88b0-ff040b22f6e2@ddth04.doudou8888.com:443?type=ws&encryption=none&security=tls&path=%2FWS#%E6%B3%B0%E5%9B%BD04-vless
+vless://8e3ba5a3-4fe1-4ad4-88b0-ff040b22f6e2@ddth05.doudou8888.com:443?type=ws&encryption=none&security=tls&path=%2FWS#%E6%B3%B0%E5%9B%BD05-vless
