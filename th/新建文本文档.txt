@@ -3,3 +3,13 @@ vless://8e3ba5a3-4fe1-4ad4-88b0-ff040b22f6e2@ddth02.doudou8888.com:443?type=ws&e
 vless://8e3ba5a3-4fe1-4ad4-88b0-ff040b22f6e2@ddth03.doudou8888.com:443?type=ws&encryption=none&security=tls&path=%2FWS#%E6%B3%B0%E5%9B%BD03-vless
 vless://8e3ba5a3-4fe1-4ad4-88b0-ff040b22f6e2@ddth04.doudou8888.com:443?type=ws&encryption=none&security=tls&path=%2FWS#%E6%B3%B0%E5%9B%BD04-vless
 vless://8e3ba5a3-4fe1-4ad4-88b0-ff040b22f6e2@ddth05.doudou8888.com:443?type=ws&encryption=none&security=tls&path=%2FWS#%E6%B3%B0%E5%9B%BD05-vless
+ss://YWVzLTEyOC1nY206ZGQxMjM%3D@ddth01.doudou8888.com:30002#%E6%B3%B0%E5%9B%BD01-ss
+ss://YWVzLTEyOC1nY206ZGQxMjM%3D@ddth02.doudou8888.com:30002#%E6%B3%B0%E5%9B%BD02-ss
+ss://YWVzLTEyOC1nY206ZGQxMjM%3D@ddth03.doudou8888.com:30002#%E6%B3%B0%E5%9B%BD03-ss
+ss://YWVzLTEyOC1nY206ZGQxMjM%3D@ddth04.doudou8888.com:30002#%E6%B3%B0%E5%9B%BD04-ss
+ss://YWVzLTEyOC1nY206ZGQxMjM%3D@ddth05.doudou8888.com:30002#%E6%B3%B0%E5%9B%BD05-ss
+ssr://ZGR0aDAxLmRvdWRvdTg4ODguY29tOjE5NTI3Om9yaWdpbjphZXMtMjU2LWNmYjpwbGFpbjpaR1F4TWpNLz9vYmZzcGFyYW09JnJlbWFya3M9NXJPdzVadTlNREV0YzNOeQ
+ssr://ZGR0aDAyLmRvdWRvdTg4ODguY29tOjE5NTI3Om9yaWdpbjphZXMtMjU2LWNmYjpwbGFpbjpaR1F4TWpNLz9vYmZzcGFyYW09JnJlbWFya3M9NXJPdzVadTlNREl0YzNOeQ
+ssr://ZGR0aDAzLmRvdWRvdTg4ODguY29tOjE5NTI3Om9yaWdpbjphZXMtMjU2LWNmYjpwbGFpbjpaR1F4TWpNLz9vYmZzcGFyYW09JnJlbWFya3M9NXJPdzVadTlNRE10YzNOeQ
+ssr://ZGR0aDA0LmRvdWRvdTg4ODguY29tOjE5NTI3Om9yaWdpbjphZXMtMjU2LWNmYjpwbGFpbjpaR1F4TWpNLz9vYmZzcGFyYW09JnJlbWFya3M9NXJPdzVadTlNRFF0YzNOeQ
+ssr://ZGR0aDA1LmRvdWRvdTg4ODguY29tOjE5NTI3Om9yaWdpbjphZXMtMjU2LWNmYjpwbGFpbjpaR1F4TWpNLz9vYmZzcGFyYW09JnJlbWFya3M9NXJPdzVadTlNRFV0YzNOeQ
